@@ -1,6 +1,4 @@
-const axios = require("axios");
-
-// async function get (url, params, headers) {
+const axios = require("axios"); // async function get (url, params, headers) {
 // 	try {
 // 		console.log('[Request configs]:', url, params, headers);
 // 		const { status, data } = await axios.get('http://localhost:3333/pokemon/list');
